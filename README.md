@@ -1,6 +1,9 @@
 # VA2CST-Dark-Glass
- Skin for OpenHPSDR-Thetis SDR software.
+ Skin for OpenHPSDR-Thetis SDR software. 2023-12-04-00.
  
+ To download, click the "Code" button and select "Download ZIP"
+ from https://github.com/Aleziss/OpenHPSDR-Thetis-Skins.
+
  This current skin is tested with Thetis v2.10.0.0-HL2 by MI0BOT.
 
  It uses high resolution quality graphics and hopefully will
