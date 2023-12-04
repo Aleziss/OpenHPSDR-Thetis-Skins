@@ -4,15 +4,21 @@
  To download, click the "Code" button and select "Download ZIP"
  from https://github.com/Aleziss/OpenHPSDR-Thetis-Skins.
 
+ You shall copy the "VA2CST Dark Glass" folder to your Thetis skin
+ folder located at C:\Users\YourName\AppData\Roaming\OpenHPSDR\Skins.
+
+ For OpenHPSDR, copy the "VA2CST Dark Glass" folder to your OpenHPSDR
+ folder located at C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins
+
  This current skin is tested with Thetis v2.10.0.0-HL2 by MI0BOT.
 
  It uses high resolution quality graphics and hopefully will
  suit for dark viewing environments.
 
  I have not tested this skin with other software like OpenHPSDR
- or PowerSDR. This skin is provided as-is without any warranty
- that there will be no visual defects or create instability
- on any of the OpenHPSDR family softwares.
+ or PowerSDR besides the version described previously. This skin
+ is provided as-is without any warranty that there will be no 
+ visual defects or create instability on any of the OpenHPSDR family softwares.
  
  There are known graphical issues in "Collapse" Mode where some
  of the graphics go out of their visual aspect positions as
