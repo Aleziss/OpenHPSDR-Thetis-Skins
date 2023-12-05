@@ -2,7 +2,7 @@
  
  Skin for OpenHPSDR-Thetis SDR software.
 
- * 2023-12-05-00. Modified the demo screen picture with tune slider. 
+ * 2023-12-05-00. Modified the demo screen picture to include tune slider. 
 
  * 2023-12-04-01. Added Tune slider bar and button was missing.
   
