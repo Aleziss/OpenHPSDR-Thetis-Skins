@@ -4,7 +4,7 @@
 
  * 2023-12-05-01. Correction of software names in this file.
  
- * 2023-12-05-00. Modified the demo screen picture to include tune slider. 
+ * 2023-12-05-00. Modified the preview screen picture to include tune slider. 
 
  * 2023-12-04-01. Added Tune slider bar and button cap that were missing.
   
