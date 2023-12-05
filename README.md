@@ -2,6 +2,8 @@
  
  Skin for OpenHPSDR-Thetis SDR software.
 
+ * 2023-12-05-01. Correction of software names in this file.
+ 
  * 2023-12-05-00. Modified the demo screen picture to include tune slider. 
 
  * 2023-12-04-01. Added Tune slider bar and button cap that were missing.
@@ -14,7 +16,7 @@
  You shall copy the "VA2CST Dark Glass" folder to your Thetis skin
  folder located at C:\Users\YourName\AppData\Roaming\OpenHPSDR\Skins.
 
- For OpenHPSDR, copy the "VA2CST Dark Glass" folder to your OpenHPSDR
+ For PowerSDR, copy the "VA2CST Dark Glass" folder to your PowerSDR
  folder located at C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins
 
  This current skin is tested with Thetis v2.10.0.0-HL2 by MI0BOT.
