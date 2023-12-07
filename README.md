@@ -31,7 +31,7 @@
  For PowerSDR, copy the "VA2CST Dark Glass" folder to your PowerSDR
  folder located at C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins
 
- This current skin is tested with Thetis v2.10.0.0-HL2 by MI0BOT.
+ This current skin is tested with Thetis v2.10.3.4-HL2 by MI0BOT.
 
  It uses high resolution quality graphics and hopefully will
  suit for dark viewing environments.
