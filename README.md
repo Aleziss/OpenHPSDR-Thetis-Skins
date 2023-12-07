@@ -2,6 +2,9 @@
  
  Skin for OpenHPSDR-Thetis SDR software.
 
+ * 2023-12-07-01. Modified Sub RX buttons size to Thetis v2.10.3.4
+	* The Sub RX button has change size. Previous button "chkEnableMultiRX-x-v2.10.0.png" is still in the folder in case you would like to run Thetis v2.10.0. Rename "chkEnableMultiRX-x-v2.10.0.png" to "chkEnableMultiRX-x.png" to get the larger button version.
+
  * 2023-12-07-00. Multiple upgrade and adjustments to Thetis v2.10.3.4.
 	* Upgraded panels resolution.
 	* Modified VFO panel to be better adjusted.
