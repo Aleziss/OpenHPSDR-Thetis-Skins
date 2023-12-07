@@ -10,7 +10,7 @@
 	* Modified VFO panel to be better adjusted.
 		* The previous VFO panel is named "panelVFO-v2.10.0.png" in case you would like to keep the previous version of Thetis 2.10.0.0.
 	* Upgraded resolution of RIT and XIT along with their Reset buttons.
-	* There is a Panel Option that can be set to full height, rename "panelOptions.full.png" to panelOptions.png. This add space to the panel so two other buttons could be added.
+	* There is a Panel Option that can be set to full height, rename "panelOptions.full.png" to "panelOptions.png". This add space to the panel so two other buttons could be added.
 
  * 2023-12-05-01. Correction of software names in this file.
  
