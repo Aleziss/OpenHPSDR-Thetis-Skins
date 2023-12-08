@@ -71,7 +71,7 @@
  ## 2023-12-07-00.
  * Multiple upgrade and adjustments to Thetis v2.10.3.4.
  * Upgraded panels resolution.
- * Modified VFO panel to be better adjusted. The previous VFO panel is renamed `panelVFO-v2.10.0.png` and still in the folder.
+ * Modified VFO panel to be better adjusted around the VFO buttons group. The previous VFO panel is renamed `panelVFO-v2.10.0.png` and still in the folder.
 	* Rename `panelVFO-v2.10.0.png` to `panelVFO.png` in case you would like to keep the previous version of Thetis 2.10.0.0.
  * Upgraded resolution of RIT and XIT buttons along with their Reset buttons.
  * There is a Panel Option named `panelOptions.full.png` that can be set for the full height of the panel.
