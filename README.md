@@ -29,8 +29,8 @@
  [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
  ## Skin description
- This skin uses high resolution quality graphics and hopefully will
- suit for dark viewing environments.
+ This skin uses high resolution quality glass style graphics and hopefully
+ will suit for dark viewing environments.
 
  I have not tested this skin with other software like PowerSDR
  besides the version described previously. This skin is provided 
@@ -56,6 +56,7 @@
  ## 2023-12-07-04.
  * Update visual aspect of this file with separators for each updates.
  * Added separators to the instruction section.
+ * Simplified some of the update description.
  
  ## 2023-12-07-03.
  * Reorder text in this file to show Preview Picture at the top and documentation below with pull down menues.
@@ -64,14 +65,13 @@
  * Upgraded Preview picture to reflect Thetis v2.10.3.4.
 
  ## 2023-12-07-01. 
- * Modified Sub RX buttons size to Thetis v2.10.3.4.
-	* The Sub RX button has change size. Previous buttons are renamed `chkEnableMultiRX-0/1-v2.10.0.png` and are still in the folder.
- 		* Rename `chkEnableMultiRX-0/1-v2.10.0.png` to `chkEnableMultiRX-0/1.png` to get the larger buttons version for Thetis v2.10.0.0.
-
+ * Modified new Sub RX buttons as they have change size in Thetis v2.10.3.x. The previous Multi RX buttons are named `chkEnableMultiRX-0/1-v2.10.0.png` and still in the folder.
+ 	* Rename `chkEnableMultiRX-0/1-v2.10.0.png` to `chkEnableMultiRX-0/1.png` to get the larger Multi RX buttons version for Thetis v2.10.0.0. 
+	
  ## 2023-12-07-00.
  * Multiple upgrade and adjustments to Thetis v2.10.3.4.
  * Upgraded panels resolution.
- * Modified VFO panel to be better adjusted. The previous VFO panel is renamed "panelVFO-v2.10.0.png" and still in the folder.
+ * Modified VFO panel to be better adjusted. The previous VFO panel is renamed `panelVFO-v2.10.0.png` and still in the folder.
 	* Rename `panelVFO-v2.10.0.png` to `panelVFO.png` in case you would like to keep the previous version of Thetis 2.10.0.0.
  * Upgraded resolution of RIT and XIT buttons along with their Reset buttons.
  * There is a Panel Option named `panelOptions.full.png` that can be set for the full height of the panel.
