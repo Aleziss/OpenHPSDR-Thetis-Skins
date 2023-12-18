@@ -17,20 +17,28 @@
  You shall copy the `VA2CST Dark Glass` folder to your Thetis skin
  folder located at `C:\Users\YourName\AppData\Roaming\OpenHPSDR\Skins`.
 
- For PowerSDR, copy the "VA2CST Dark Glass" folder to your PowerSDR
+ For PowerSDR, copy the `VA2CST Dark Glass` folder to your PowerSDR
  folder located at `C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins`
  but there might be visual issues as some of the graphics have changed
  in size and positions. Read the revision history, there are files that
- can be used in the folder to match older version of PowerSDR.
+ might be used in the folder to match older version of PowerSDR.
 
  ## VA2CST Dark Glass - skin is tested with
  [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
- ## Skin description
- This skin uses high resolution quality glass style graphics and hopefully
- will suit for dark viewing environments.
+ ## VA2CST Dark Glass - Skin description
+ This skin uses high resolution quality glass style color buttons graphics 
+ with dark grey tone background and deep black fade spectral area color.
+ Hopefully it will suit for dark viewing environments.
 
- I have not tested this skin with other software like PowerSDR
+ ## - COMING SOON - VA2CST Black Glass - Skin description
+ This future release skin will use high resolution quality glass style 
+ black buttons graphics with nice button press effect. With an almost fully 
+ black background (050505) and deep black fade spectral area color.
+ Hopefully it will suit for real dark viewing environments.
+
+ ## Notes
+ I have not tested the VA2CST Dark Skin with other software like PowerSDR
  besides the version described previously. This skin is provided 
  as-is without any warranty that there will be no visual defects or 
  create instability on any of the OpenHPSDR family softwares.
@@ -40,9 +48,8 @@
  some graphics are stretched within Thetis software.
 
  You can adjust the appearance to your liking. Note that you should
- not change the dark grey background color as buttons won't look as
- good since there does not seem to be support for transparancy
- as of this moment.
+ not change the background color as buttons won't look as good since
+ there does not seem to be support for transparancy as of this moment.
 
 
 
@@ -52,6 +59,9 @@
   <summary>Revisions:</summary>
 
  ## 2023-12-18-01.
+ * Corrections in the previous modifications.
+
+ ## 2023-12-18-00.
  * Modified description details in this file for future new skins.
   
  ## 2023-12-07-04.
