@@ -27,14 +27,14 @@
  [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
  ## VA2CST Dark Glass - Skin description
- This skin uses high resolution quality glass style color buttons graphics 
- with dark grey tone background and deep black fade spectral area color.
+ This skin uses high resolution quality graphics with colored glass style 
+ buttons along with a dark grey tone background and deep black fade spectral area color.
  Hopefully it will suit for dark viewing environments.
 
  ## - COMING SOON - VA2CST Black Glass - Skin description
- This future release skin will use high resolution quality glass style 
- black buttons graphics with nice button press effect. With an almost fully 
- black background (050505) and deep black fade spectral area color.
+ This future release skin will use high resolution quality graphics with 
+ black glass style buttons with nice button press effect. With an almost fully 
+ blacken background (050505) and deep black fade spectral area color.
  Hopefully it will suit for real dark viewing environments.
 
  ## Notes
