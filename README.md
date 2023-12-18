@@ -4,7 +4,11 @@
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
 
-
+ ## - COMING SOON - VA2CST Black Glass - Skin description
+ This future release skin will use high resolution quality graphics with 
+ black glass style buttons with nice button press effect. With an almost fully 
+ blacken background (050505) and deep black fade spectral area color.
+ Hopefully it will suit for real dark viewing environments.
 
 <details>
 
@@ -23,19 +27,12 @@
  in size and positions. Read the revision history, there are files that
  might be used in the folder to match older version of PowerSDR.
 
- ## VA2CST Dark Glass - skin is tested with
- [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
-
  ## VA2CST Dark Glass - Skin description
  This skin uses high resolution quality graphics with colored glass style 
  buttons along with a dark grey tone background and deep black fade spectral area color.
  Hopefully it will suit for dark viewing environments.
-
- ## - COMING SOON - VA2CST Black Glass - Skin description
- This future release skin will use high resolution quality graphics with 
- black glass style buttons with nice button press effect. With an almost fully 
- blacken background (050505) and deep black fade spectral area color.
- Hopefully it will suit for real dark viewing environments.
+ ## VA2CST Dark Glass - Skin is tested with
+ [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
  ## Notes
  I have not tested the VA2CST Dark Skin with other software like PowerSDR
@@ -51,12 +48,14 @@
  not change the background color as buttons won't look as good since
  there does not seem to be support for transparancy as of this moment.
 
-
-
+ 
 </details>
 
 <details>
   <summary>Revisions:</summary>
+
+ ## 2023-12-18-02.
+ * Reorder some of the previous modifications.
 
  ## 2023-12-18-01.
  * Corrections in the previous modifications.
