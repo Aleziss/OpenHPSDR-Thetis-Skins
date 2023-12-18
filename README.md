@@ -1,7 +1,5 @@
-# VA2CST-Dark-Glass
+# Skins for OpenHPSDR-Thetis SDR software.
  
- ## Skin for OpenHPSDR-Thetis SDR software.
-
  ### VA2CST Dark Glass Preview v2023-12-07-02
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
@@ -25,7 +23,7 @@
  in size and positions. Read the revision history, there are files that
  can be used in the folder to match older version of PowerSDR.
 
- ## This current skin is tested with
+ ## VA2CST Dark Glass - skin is tested with
  [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
  ## Skin description
@@ -52,7 +50,10 @@
 
 <details>
   <summary>Revisions:</summary>
-	 
+
+ ## 2023-12-18-01.
+ * Modified description details in this file for future new skins.
+  
  ## 2023-12-07-04.
  * Update visual aspect of this file with separators for each updates.
  * Added separators to the instruction section.
@@ -62,29 +63,29 @@
  * Reorder text in this file to show Preview Picture at the top and documentation below with pull down menues.
 
  ## 2023-12-07-02.
- * Upgraded Preview picture to reflect Thetis v2.10.3.4.
+ * VA2CST Dark Glass - Upgraded Preview picture to reflect Thetis v2.10.3.4.
 
  ## 2023-12-07-01. 
- * Modified new Sub RX buttons as they have change size in Thetis v2.10.3.x. The previous Multi RX larger buttons are named `chkEnableMultiRX-0/1-v2.10.0.png` and still in the folder.
+ * VA2CST Dark Glass - Modified new Sub RX buttons as they have change size in Thetis v2.10.3.x. The previous Multi RX larger buttons are named `chkEnableMultiRX-0/1-v2.10.0.png` and still in the folder.
  	* Rename `chkEnableMultiRX-0/1-v2.10.0.png` to `chkEnableMultiRX-0/1.png` to get the larger Multi RX buttons version for Thetis v2.10.0.0. 
 	
  ## 2023-12-07-00.
- * Multiple upgrade and adjustments to Thetis v2.10.3.4.
- * Upgraded panels resolution.
- * Modified VFO panel to be better adjusted around the VFO group of buttons. The previous VFO Panel is renamed `panelVFO-v2.10.0.png` and still in the folder.
+ * VA2CST Dark Glass - Multiple upgrade and adjustments to Thetis v2.10.3.4.
+ * VA2CST Dark Glass - Upgraded panels resolution.
+ * VA2CST Dark Glass - Modified VFO panel to be better adjusted around the VFO group of buttons. The previous VFO Panel is renamed `panelVFO-v2.10.0.png` and still in the folder.
 	* Rename `panelVFO-v2.10.0.png` to `panelVFO.png` in case you would like to keep the previous version of Thetis 2.10.0.0.
- * Upgraded resolution of RIT and XIT buttons along with their Reset buttons.
- * There is a Panel Option named `panelOptions.full.png` that can be set for the full height of the Panel.
+ * VA2CST Dark Glass - Upgraded resolution of RIT and XIT buttons along with their Reset buttons.
+ * VA2CST Dark Glass - There is a Panel Option named `panelOptions.full.png` that can be set for the full height of the Panel.
  	* Rename `panelOptions.full.png` to `panelOptions.png`. This add space to the panel so two other buttons could be added.
 
  ## 2023-12-05-01.
  * Correction of software names in this file.
  
  ## 2023-12-05-00.
- * Modified the preview screen picture to include tune slider. 
+ * VA2CST Dark Glass - Modified the preview screen picture to include tune slider. 
 
  ## 2023-12-04-01.
- * Added Tune slider bar and button cap that were missing.
+ * VA2CST Dark Glass - Added Tune slider bar and button cap that were missing.
   
  ## 2023-12-04-00.
  * Initial commit.
