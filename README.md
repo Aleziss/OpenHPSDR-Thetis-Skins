@@ -1,6 +1,6 @@
 # Skins for OpenHPSDR-Thetis SDR software.
  
- ### VA2CST Dark Glass Preview v2023-12-07-02
+ ### VA2CST Dark Glass Preview v2023-12-18-03
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
 
@@ -54,6 +54,12 @@
 <details>
   <summary>Revisions:</summary>
 
+ ## 2023-12-18-03.
+ * VA2CST Dark Glass - Added xPA buttons to the option panel.
+	* If you are in need to use the xPA buttons, rename `panelOptions.full.png` to `panelOptions.png`. This add space to the panel so the buttons won't overlap the previous smaller panel.
+ * VA2CST Dark Glass - Update preview picture to reflect new xPA buttons and larger option panel.
+ * Modified this file to reflect updates.
+ 
  ## 2023-12-18-02.
  * Reorder some of the previous modifications.
 
