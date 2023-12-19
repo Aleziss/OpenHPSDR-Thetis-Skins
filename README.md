@@ -4,55 +4,49 @@
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
 
- ## - COMING SOON - VA2CST Black Glass - Skin description
- This future release skin will use high resolution quality graphics with 
- black glass style buttons with nice button press effect. With an almost fully 
- blacken background (050505) and deep black fade spectral area color.
- Hopefully it will suit for real dark viewing environments.
+ ### NEW - VA2CST Black Glass v2023-12-18-04
+
+ ![](/VA2CST%20Black%20Glass/VA2CST%20Black%20Glass.png)
 
 <details>
 
  <summary>Instructions:</summary>
 
  ## To download 
- Click the "Code" button and select "Download ZIP"
- from my [GitHub](https://github.com/Aleziss/OpenHPSDR-Thetis-Skins).
+ Click the "Code" button and select "Download ZIP" from my [GitHub](https://github.com/Aleziss/OpenHPSDR-Thetis-Skins).
 
- You shall copy the `VA2CST Dark Glass` folder to your Thetis skin
- folder located at `C:\Users\YourName\AppData\Roaming\OpenHPSDR\Skins`.
+ You shall copy the `VA2CST Dark Glass` and `VA2CST Black Glass` folders to your Thetis skins folder located at `C:\Users\YourName\AppData\Roaming\OpenHPSDR\Skins`.
 
- For PowerSDR, copy the `VA2CST Dark Glass` folder to your PowerSDR
- folder located at `C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins`
- but there might be visual issues as some of the graphics have changed
- in size and positions. Read the revision history, there are files that
- might be used in the folder to match older version of PowerSDR.
+ For PowerSDR, copy the `VA2CST Dark Glass` and `VA2CST Black Glass` folders to your PowerSDR folder located at `C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins` but there are visual issues as some of the graphics have changed in size and positions with the most recent version of Thetis. Read the revision history, there are files that might be used in the folder to match older version of PowerSDR.
 
  ## VA2CST Dark Glass - Skin description
- This skin uses high resolution quality graphics with colored glass style 
- buttons along with a dark grey tone background and deep black fade spectral area color.
- Hopefully it will suit for dark viewing environments.
- ## VA2CST Dark Glass - Skin is tested with
+ This skin uses high resolution quality graphics with colored glass style buttons. With a dark grey tone background and deep black fade spectral area color, hopefully it will suit for dark viewing environments.
+ 
+ ## VA2CST Black Glass - Skin description
+ This skin uses high resolution quality graphics with black glass style buttons and black buttons depressed effect. With an almost fully blacken background (050505) and deep black fade spectral area color, hopefully it will suit for blacken viewing environments.
+ 
+ ## VA2CST Dark & Black Glass Skins are tested with
  [Thetis v2.10.3.4-HL2 by MI0BOT](https://github.com/mi0bot).
 
- ## Notes
- I have not tested the VA2CST Dark Skin with other software like PowerSDR
- besides the version described previously. This skin is provided 
- as-is without any warranty that there will be no visual defects or 
- create instability on any of the OpenHPSDR family softwares.
+  ## Notes
+ I have not tested the VA2CST Dark & Black Skins with other software like PowerSDR besides the version described previously. The skins are provided as-is without any warranty that there will be no visual defects or create instability on any of the OpenHPSDR family softwares.
  
- There are known graphical issues in "Collapse" Mode where some
- of the graphics go out of their visual aspect positions as
- some graphics are stretched within Thetis software.
+ There are known graphical issues in "Collapse" Mode where some of the graphics go out of their visual aspect positions as some graphics are stretched within Thetis software.
 
- You can adjust the appearance to your liking. Note that you should
- not change the background color as buttons won't look as good since
- there does not seem to be support for transparancy as of this moment.
+ You can adjust the appearance to your liking. Note that you should not change the background color as buttons won't look as good since there does not seem to be support for transparancy as of this moment.
 
  
 </details>
 
 <details>
   <summary>Revisions:</summary>
+
+ ## 2023-12-18-04.
+ * VA2CST Black Glass - Initial commit to the skin folder.
+ * VA2CST Black Glass - Added xPA buttons to the option panel.
+	* If you are in need to use the xPA buttons, rename `panelOptions.full.png` to `panelOptions.png`. This add space to the panel so the buttons won't overlap the previous smaller panel.
+ * VA2CST Black Glass - Update preview picture to reflect new xPA buttons and larger option panel.
+ * Modified this file to reflect updates.
 
  ## 2023-12-18-03.
  * VA2CST Dark Glass - Added xPA buttons to the option panel.
