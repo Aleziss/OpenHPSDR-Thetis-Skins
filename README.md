@@ -41,6 +41,19 @@
 <details>
   <summary>Revisions:</summary>
 
+ ## 2023-12-22-00.
+ * VA2CST - Happy Holydays to everyone !
+ * VA2CST Dark & Black Glass - The current files in both folders are **still for use with Thetis v2.10.3.4.**
+ * VA2CST Dark & Black Glass - Added and modified 3 panels to fit the latest pre-release of Thetis v2.10.3.5.
+ 	* Visual aspect of graphics positioning has been adjusted and centered properly.
+  	* Once Thetis v2.10.3.5 final release will be available, file names will be updated to match the most recent version of Thetis.
+   		* Previous file names will still be in both folders with the addition this current version e.g. `panelVFO-v2.10.3.4.png` 
+	* If you wish to use Thetis v2.10.3.5 pre-release 5, rename the following files in both folders by:
+  		* `panelOptions-v2.10.3.5.png` to `panelOptions.png`
+		* `panelSoundControls-v2.10.3.5.png` to `panelSoundControls.png`
+		* `panelVFO-v2.10.3.5.png` to `panelVFO.png`
+ * VA2CST Dark & Black Glass - Enjoy the upgraded skins with Thetis v2.10.3.5 pre-release 5 ! 
+
  ## 2023-12-18-04.
  * VA2CST Black Glass - Initial commit to the skin folder.
  * VA2CST Black Glass - Added xPA buttons to the option panel.
