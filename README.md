@@ -4,7 +4,7 @@
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
 
- ### NEW - VA2CST Black Glass v2023-12-18-04
+ ### VA2CST Black Glass Preview v2023-12-18-04
 
  ![](/VA2CST%20Black%20Glass/VA2CST%20Black%20Glass.png)
 
@@ -40,6 +40,10 @@
 
 <details>
   <summary>Revisions:</summary>
+
+ ## 2024-01-17-00.
+ * VA2CST - Update to this file
+ * VA2CST - Dark & Black Glass - Updates on various panels to reflect proper alignment in the lastest version of Thetis.
 
  ## 2024-01-07-00.
  * Updates to this file, removed pre-release description in 2023-12-22-00
