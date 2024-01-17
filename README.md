@@ -1,10 +1,10 @@
 # Skins for OpenHPSDR-Thetis SDR software.
  
- ### VA2CST Dark Glass Preview v2023-12-18-03
+ ### VA2CST Dark Glass Preview v2024-01-16-01
 
  ![](/VA2CST%20Dark%20Glass/VA2CST%20Dark%20Glass.png)
 
- ### VA2CST Black Glass Preview v2023-12-18-04
+ ### VA2CST Black Glass Preview v2024-01-16-01
 
  ![](/VA2CST%20Black%20Glass/VA2CST%20Black%20Glass.png)
 
@@ -41,7 +41,10 @@
 <details>
   <summary>Revisions:</summary>
 
- ## 2024-01-17-00.
+ ## 2024-01-16-01.
+ * VA2CST - Dark & Black Glass - Updates on preview pictures to reflect most recent version of Thetis.
+   
+ ## 2024-01-16-00.
  * VA2CST - Update to this file
  * VA2CST - Dark & Black Glass - Updates on various panels to reflect proper alignment in the lastest version of Thetis.
 
