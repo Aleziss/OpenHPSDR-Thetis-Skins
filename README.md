@@ -20,10 +20,10 @@
  For PowerSDR, copy the `VA2CST Dark Glass` and `VA2CST Black Glass` folders to your PowerSDR folder located at `C:\Users\YourName\AppData\Roaming\FlexRadio Systems\PowerSDR\Skins` but there are visual issues as some of the graphics have changed in size and positions with the most recent version of Thetis. Read the revision history, there are files that might be used in the folder to match older version of PowerSDR.
 
  ## VA2CST Dark Glass - Skin description
- This skin uses high resolution quality graphics with colored glass style buttons with color change effect feedback. With a dark grey tone background and deep black fade spectral area color, hopefully it will suit for dark viewing environments.
+ This skin uses high resolution quality graphics with colored glass style buttons with color change feedback effect. With a dark grey tone background and deep black fade spectral area color, hopefully it will suit for dark viewing environments.
  
  ## VA2CST Black Glass - Skin description
- This skin uses high resolution quality graphics with black glass style buttons with press effect feedback. With an almost fully blacken background (050505) and deep black fade spectral area color, hopefully it will suit for blacken viewing environments.
+ This skin uses high resolution quality graphics with black glass style buttons with press feedback effect. With an almost fully blacken background (050505) and deep black fade spectral area color, hopefully it will suit for blacken viewing environments.
  
  ## VA2CST Dark & Black Glass Skins are tested with
  [Thetis 2.10.3.4-β3-HL2 by MI0BOT](https://github.com/mi0bot).
