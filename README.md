@@ -46,6 +46,7 @@
  ## 2026-04-03-00.
  * VA2CST - Update to this file
  * VA2CST - Added Dark & Black Glass missing CW APF type buttons
+ * VA2CST - Updated Dark & Black Glass screen preview with Thetis 2.10.3.12-HL2
  * VA2CST - Dark & Black Glass - Tested skins with most recent release of [Thetis 2.10.3.12-HL2 by MI0BOT](https://github.com/mi0bot).
  
  ## 2024-02-26-00.
