@@ -28,7 +28,7 @@
  This skin uses high resolution quality graphics with black glass style buttons with press feedback effect. With an almost fully blacken background (050505) and deep black fade spectral area color, hopefully it will suit for deeper dark viewing environments.
  
  ## VA2CST Dark & Black Glass Skins are tested with
- [Thetis 2.10.3.12-HL2 by MI0BOT](https://github.com/mi0bot).
+ [Thetis 2.10.3.13-HL2 by MI0BOT](https://github.com/mi0bot).
 
   ## Notes
  I have not tested the VA2CST Dark & Black Skins with other software like PowerSDR besides the version described previously. The skins are provided as-is without any warranty that there will be no visual defects or create instability on any of the OpenHPSDR family softwares.
